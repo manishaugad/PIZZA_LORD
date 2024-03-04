@@ -2,7 +2,7 @@ import { initializeApp } from "firebase/app";
 import { getFirestore } from "firebase/firestore";
 import { getAuth } from "firebase/auth";
 const firebaseConfig = {
-  apiKey: "AIzaSyDzPsDwdt62WinDsp8ku4i-BM5Fe4vhh2g",
+  apiKey: "",
   authDomain: "shopalot-79675.firebaseapp.com",
   projectId: "shopalot-79675",
   storageBucket: "shopalot-79675.appspot.com",
